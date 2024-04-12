@@ -1,0 +1,4 @@
+student_id,name,branch,year,entry_time,exit_time,attendance_status,total_attendance
+21071,Raman Kumar,CSE,1st Year,2024-04-05 09:00:00,2024-04-05 17:00:00,Present,20
+21072,Jane Smith,CSE,2nd Year,2024-04-05 10:00:00,2024-04-05 18:00:00,Present,25
+21073,John Doe,IT,1st Year,2024-04-05 09:30:00,2024-04-05 17:30:00,Absent,15
